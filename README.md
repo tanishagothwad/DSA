@@ -1,4 +1,4 @@
-# DSA practical code outout.
+# DSA practical code outout (stack1.cc).
 Stack 1
 <img width="943" height="585" alt="Screenshot (12)" src="https://github.com/user-attachments/assets/e6746424-00c0-4e6b-8c92-063680d3bffc" />
 
